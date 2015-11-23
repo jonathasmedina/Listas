@@ -17,6 +17,7 @@ public class MainActivity extends ListActivity {
     private ArrayAdapter<String> meuAdaptador;
 
     @Override
+
  protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         // setContentView(R.layout.activity_main);
